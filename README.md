@@ -1,2 +1,1 @@
-# leetcode
-Leetcode coding practice
+# Leetcode Coding Challenges
